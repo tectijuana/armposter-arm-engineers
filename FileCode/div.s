@@ -5,7 +5,7 @@
 .func main
 .arm
 
-main:    	ADR R5, thumbcode+1     //se asigna la dirección de la etiqueta thumcode al registro 5
+main:    	ADR R5, thumbcode+1     //se asigna la dirección de la etiqueta thumbcode al registro 5
 		MOV LR, PC              //se almacena la siguiente instrucción en el registro LR
 		BX R5                   //salto al registro r5
 
