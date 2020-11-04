@@ -1,5 +1,13 @@
-//Interfuncionamiento entre instrucciones ARM Y THUMB
-//División de 9 entre 3 (9/3)
+/*
+Instituto Tecnologico de Tijuana
+Depto de Sistemas y Computación
+Ing. En Sistemas Computacionales
+Autor: Ezequiel Galván Rodríguez @nickname Ezequiel1721
+Repositorio: https://github.com/tectijuana/armposter-arm-engineers (Respositorio publico)
+Fecha de revisión:  03/11/2020
+Objetivo del programa:
+División de 9 entre 3 (9/3). Interfuncionamiento entre instrucciones ARM Y THUMB
+*/
 
 .global main
 .func main
