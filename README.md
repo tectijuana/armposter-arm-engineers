@@ -33,4 +33,4 @@
 
 # Profesor:
 # MC. René Solis Reyes
-# Semestre sep - ene 2020
+# Semestre sep - ene 2021
