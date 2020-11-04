@@ -30,8 +30,7 @@ end:
 # Equivalente en lenguaje C 
 
 El siguiente código de la parte inferior es una muestra del código equivalente en el lenguaje C al código en ensamblador de la parte superior.
-
-Se declaran 3 variables con valores iniciales, se hace comparación y el número mayor es almacenado en la variable “max”
+Se declaran 3 variables con valores iniciales, se hace comparación y el número mayor es almacenado en la variable “max”.
 
 ```C
 int main() {
