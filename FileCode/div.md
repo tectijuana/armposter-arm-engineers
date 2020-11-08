@@ -1,1 +1,2 @@
-# Ejemplo de Branch and Exchange (BX) Realizando la división de 9 entre 3
+# División de 9 entre 3 (9/3)
+## Interfuncionamiento entre instrucciones ARM Y THUMB
