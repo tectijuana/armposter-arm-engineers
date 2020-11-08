@@ -17,7 +17,7 @@ main:    	ADR R5, thumbcode+1     //se asigna la dirección de la etiqueta thumb
 		MOV LR, PC              //se almacena la siguiente instrucción en el registro LR
 		BX R5                   //salto al registro r5
 
-exit:   	MOV R0, #0
+exit:   	MOV R0, R3
 		MOV R7, #1
 		SWI 0
 
